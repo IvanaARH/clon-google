@@ -6,7 +6,7 @@ El presente fue llevado a cabo con **HTML** y **CSS**. Se trato de emular la int
 ![alt text](imagenes/Captura-clon.bmp)
 **Puedes inspirarte en mi proyecto para demostrar tu destreza como diseñador/a front-end**
 
-##Contenido del proyecto
+##Contenido del proyecto##
 1. Header
 *Sección que muestra menú y foto de perfil*
 2. Main
